@@ -15,6 +15,8 @@
     <ProjectGuid>{603ef982-28de-4429-a3f5-2093199dc626}</ProjectGuid>
     <Name>ProjectOne</Name>
     <RootNamespace>ProjectOne</RootNamespace>
+    <StartupObject>DisplayAOSPackageFolder</StartupObject>
+    <StartupType>Class</StartupType>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <Configuration>Debug</Configuration>
